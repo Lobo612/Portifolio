@@ -1,0 +1,27 @@
+body{
+    background-image: url(fundo.png);
+}
+
+#img2{
+    margin-top: 400px;
+    border: 10px outset rgb(255, 81, 0);
+    border-radius: 5px;
+}
+
+#h11{
+    color: white;
+    margin-top: -195px;
+    
+}
+
+#h12{
+    color: white;
+    margin-top: 0px;
+    
+}
+
+#h13{
+    color: white;
+    margin-top: 0px;
+    
+}
